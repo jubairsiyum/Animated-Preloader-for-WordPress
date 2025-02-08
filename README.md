@@ -16,7 +16,7 @@
 ## 🚀 Installation
 
 1. **Download the Plugin:**
-   - Clone or download the plugin from [GitHub](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress).
+   - Clone or download the plugin from [GitHub](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress-Specialized-for-WooCommerce).
 
 2. **Upload to WordPress:**
    - Log in to your WordPress admin panel.
@@ -50,7 +50,7 @@
 ---
 
 ## 💡 Contributing
-Feel free to contribute to the plugin by creating a pull request on the [GitHub Repository](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress).
+Feel free to contribute to the plugin by creating a pull request on the [GitHub Repository](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress-Specialized-for-WooCommerce).
 
 ---
 
@@ -60,4 +60,4 @@ This plugin is licensed under the [MIT License](https://opensource.org/licenses/
 ---
 
 ## 📧 Support
-For issues or feature requests, please open an issue in the [GitHub Repository](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress/issues).
+For issues or feature requests, please open an issue in the [GitHub Repository](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress-Specialized-for-WooCommerce/issues).
