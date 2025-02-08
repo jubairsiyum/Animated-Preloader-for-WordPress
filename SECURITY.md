@@ -22,7 +22,7 @@ If you discover a security vulnerability in **Animated Preloader for WordPress**
    - Instead, report them privately via email.
 
 2. **Contact Us Securely**  
-   - Email: [jubairsiyum@gmail.com]
+   - Email: jubairsiyum@gmail.com
    - Use **[GitHub Security Advisories](https://github.com/jubairsiyum/Animated-Preloader-for-WordPress-Specialized-for-WooCommerce/security/advisories)** if applicable.
 
 3. **Provide Detailed Information**  
